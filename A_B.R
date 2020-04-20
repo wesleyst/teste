@@ -16,3 +16,5 @@ b = e*20
 b = "ca"
 a = "da"
 str_c(b, "dedo", a)
+d <- "teste novamente"
+d
